@@ -1,0 +1,3 @@
+Flight Number:AB11|Depart From: Kuala Lumpur|Depart to: Kota Kinabalu|Depart date: 03 September 2021|Depart time: 1400|Return From: Kota Kinabalu|Return To: Kuala Lumpur|Return date: 7 September 2021|Return time: 1500|Flight Price:RM450|
+Flight Number:AB10|Depart From: Kota Kinabalu|Depart to: Kuala Lumpur|Depart date: 15 September 2021|Depart time:  0800|Return From: Kuala Lumpur |Return To: Kota Kinabalu|Return date: 22 September 2021|Return time: 1200|Flight Price:RM400|
+Flight Number:AB12|Depart From: Kuala Lumpur|Depart to: Penang|Depart date: 13 September 2021|Depart time: 1700|Return From: Penang|Return To: Kuala Lumpur|Return date: 20 September 2021|Return time: 1200|Flight Price:RM200|

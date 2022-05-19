@@ -1,0 +1,5 @@
+derrickyaw|123456|Member ID:8888000009|Name:Derrick Yaw|Gender:F|IC No:1234|Email:hoongyaw|Phone:0123456789|Emergency contact:9876543210|
+derrickyawwww|123456|Member ID:8888000010|Name:123456|Gender:F|IC No:1|Email:|Phone:0123456789|Emergency contact:9876543210|
+Yaoyang|kaltsit|Member ID:8888000011|Name:qwerw|Gender:M|IC No:02|Email:12|Phone:12|Emergency contact:12|
+derrickyawwww|derrickyawwww|Member ID:8888000012|Name:derrickyaw|Gender:d|IC No:|Email:|Phone:|Emergency contact:|
+cheehoong|abcd1234|Member ID:8888000013|Name:Chee Hoong|Gender:M|IC No:123456789|Email:cheehoong@gmail.com|Phone:01110893998|Emergency contact:1234567|
